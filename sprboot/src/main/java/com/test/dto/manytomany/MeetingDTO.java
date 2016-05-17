@@ -1,16 +1,10 @@
 package com.test.dto.manytomany;
 
 import java.io.Serializable;
-
 import java.util.Date;
 import java.util.HashSet;
 import java.util.Set;
 
-import javax.persistence.Entity;
-
-
-import com.test.model.manytomany.Student;
-@Entity
 public class MeetingDTO implements Serializable {
 	/**
 	 * 

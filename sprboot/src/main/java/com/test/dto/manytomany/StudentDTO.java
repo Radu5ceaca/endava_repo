@@ -6,8 +6,7 @@ import java.util.Set;
 
 import javax.persistence.Entity;
 
- 
-@Entity
+
 public class StudentDTO implements Serializable {
      
         /**

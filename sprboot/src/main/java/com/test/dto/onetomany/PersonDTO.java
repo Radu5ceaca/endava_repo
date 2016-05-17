@@ -2,14 +2,6 @@ package com.test.dto.onetomany;
 
 import java.io.Serializable;
 import java.sql.Date;
-
-import javax.persistence.Column;
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.Id;
-import javax.persistence.JoinColumn;
-import javax.persistence.ManyToOne;
-import javax.persistence.Table;
  
  
 public class PersonDTO implements Serializable{
